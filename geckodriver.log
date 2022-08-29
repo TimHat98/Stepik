@@ -1,0 +1,81 @@
+1661771331829	geckodriver	INFO	Listening on 127.0.0.1:50214
+1661771334885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofileFBSrSf"
+1661771335226	Marionette	INFO	Marionette enabled
+1661771335231	Marionette	INFO	Listening on port 50225
+WebDriver BiDi listening on ws://localhost:50215
+Read port: 50225
+1661771335491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661771437397	geckodriver	INFO	Listening on 127.0.0.1:50289
+1661771440451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofileRtBsRG"
+1661771440786	Marionette	INFO	Marionette enabled
+1661771440791	Marionette	INFO	Listening on port 50302
+WebDriver BiDi listening on ws://localhost:50290
+Read port: 50302
+1661771441054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofileRtBsRG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50290/devtools/browser/58889469-0e16-4611-8d52-8026702aa399
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661771549146	Marionette	INFO	Stopped listening on port 50302
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5404, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1661772085987	geckodriver	INFO	Listening on 127.0.0.1:54158
+1661772089385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilekb3QzO"
+1661772089751	Marionette	INFO	Marionette enabled
+1661772089756	Marionette	INFO	Listening on port 54169
+WebDriver BiDi listening on ws://localhost:54159
+Read port: 54169
+1661772089918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilekb3QzO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54159/devtools/browser/03bc66e8-ab6d-4886-a00d-defda8f9303e
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661772628850	Marionette	INFO	Stopped listening on port 54169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilehlVqdx"
+1661772453474	Marionette	INFO	Marionette enabled
+1661772453479	Marionette	INFO	Listening on port 54366
+WebDriver BiDi listening on ws://localhost:54357
+Read port: 54366
+1661772453582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilehlVqdx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54357/devtools/browser/e0e3acdb-7131-43b7-bf36-e495ecfeedfb
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661772635143	Marionette	INFO	Stopped listening on port 54366
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661772800522	geckodriver	INFO	Listening on 127.0.0.1:54514
+1661772803600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilefiP0NS"
+1661772803963	Marionette	INFO	Marionette enabled
+1661772803967	Marionette	INFO	Listening on port 54524
+WebDriver BiDi listening on ws://localhost:54515
+Read port: 54524
+1661772804072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilefiP0NS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54515/devtools/browser/737b1e42-cf09-460e-a433-1982ff369bdc
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661773475542	geckodriver	INFO	Listening on 127.0.0.1:54670
+1661773478903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilebGUdMT"
+1661773479260	Marionette	INFO	Marionette enabled
+1661773479265	Marionette	INFO	Listening on port 54683
+WebDriver BiDi listening on ws://localhost:54671
+Read port: 54683
+1661773479532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilebGUdMT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54671/devtools/browser/d26ba85f-840e-4d10-848a-6d7bf37e58a3
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661773520435	Marionette	INFO	Stopped listening on port 54683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661773797737	geckodriver	INFO	Listening on 127.0.0.1:54841
+1661773800789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilepGEg1Y"
+1661773801118	Marionette	INFO	Marionette enabled
+1661773801123	Marionette	INFO	Listening on port 54851
+WebDriver BiDi listening on ws://localhost:54842
+Read port: 54851
+1661773801381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\2D09~1\\AppData\\Local\\Temp\\rust_mozprofilepGEg1Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54842/devtools/browser/9a547b1a-a71f-493d-8ee5-a1ff7ace6957
+1661773818786	Marionette	INFO	Stopped listening on port 54851
